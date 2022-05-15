@@ -1,0 +1,67 @@
+body {
+    background-color: lightgray;
+  }
+  h1 {
+    color: dark;
+    text-align: center;
+    font-family:cursive;
+    font-size:xx-large;
+    }
+  
+  #one{
+      
+      font-family: cursive;
+      font-weight: bolder;
+      text-align: center;
+      font-size: xx-large ;
+      
+}
+  #two{
+    font-family:cursive;
+    text-align: left;
+  }
+ 
+
+li{ 
+   font-family: cursive;
+   text-align: justify;
+
+}
+
+h2 {
+  font-family: cursive;
+      font-weight: bolder;
+      text-align: center;
+      font-size: xx-large
+    
+}
+h3 {font-family: cursive;
+  font-weight: bolder;
+  text-align: center;
+  font-size: xx-large;
+}
+
+td {font-family: cursive;
+  font-size: small;
+}
+
+h4 {
+  font-family: cursive;
+        font-weight: bolder;
+ }
+ h5 {
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-size: larger;
+   font-style: italic;
+   
+ }
+ div {
+  display: flex;
+  justify-content: center;
+  height: 700px;
+}
+
+img {
+  width: 50%;
+  height: 700px;
+}
